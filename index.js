@@ -19,7 +19,7 @@ $("#giftButton").on("click", function() {
         window.location.href = "https://www.osterlentrail.se/ekopark-trail-13km.html";
     }
     else if (code != null)
-        alert("Hoppsan! Du har kanske druckit lite mycket vin? Försök igen!");
+        alert("Hoppsan! Det kanske är gravidhjärnan som spökar? Försök igen!");
 });
 
 $("h1").delay(5000).fadeIn(4000);
